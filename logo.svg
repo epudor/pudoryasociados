@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200">
+<style>
+.title{font-family: 'Times New Roman', serif; font-size:72px; letter-spacing:6px; fill:#111;}
+.sub{font-family:'Times New Roman', serif; font-size:24px; letter-spacing:4px; fill:#8c7a5b;}
+</style>
+
+<text x="400" y="90" text-anchor="middle" class="title">PUDOR &amp; ASOCIADOS</text>
+<line x1="200" y1="120" x2="600" y2="120" stroke="#8c7a5b" stroke-width="2"/>
+<text x="400" y="160" text-anchor="middle" class="sub">BUENOS AIRES</text>
+
+</svg>
